@@ -1,0 +1,2 @@
+A simple DOM project without any frameworks that I created, as part of the "Modern JavaScript From the Beginning" course by Brad Traversy. I was very excited about compeleting this, as my previous JavaScript projects were solely JavaScript based without any interaction with the DOM. It was definetly a significant part of knowledge that I was lacking and I finally had the chance to experience it. I will definetly be looking to incorporate these DOM elements towards my previous/future JavaScript projects.
+Try it on: https://marccodez.github.io/Task-List/
